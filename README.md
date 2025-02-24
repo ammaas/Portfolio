@@ -37,6 +37,8 @@ In this video, I discuss the original artifacts prior to any enhancements. I exp
 
 [Enhancement Artifact](Main.java)
 
+[Narrative](CS499CapstoneMilestoneTwo.docx)
+
 My original artifact is an Animal Shelter Python class, which includes the functions of Create, Read, Update, and Delete. To demonstrate my ability to write programming logic in multiple code languages, I have created the same Create, Read, Update, and Delete functionality utilizing the Java programming language. 
 
 # Algorithms and Data Structure
@@ -44,11 +46,15 @@ My original artifact is an Animal Shelter Python class, which includes the funct
 
 [Enhancement Artifact](RevisedDashboardCS340.py)
 
+[Narrative](CS499CapstoneMilestoneThree.docx)
+
 My original artifact is a dashboard user interface, which is utilized by users to interact with the Mongo Database records. To demonstrate my abilty to utilize innovative sills and techniques to improve the overall user experience, I selected this artifact for ehancement. I modified the programming of the dashboard to enhance the user experience by adding important items such as a start page, setting the view to 10 for optimal viewing, and pagination.
 
 # Databases
 [Original Artifact](ProjectTwoDashboard.ipynb)
 
 [Enhancement Artifact](RevisedDashboardWithAuthenticationCS340.py)
+
+[Narrative](CS499CapstoneMilestoneFourV2.docx)
 
 My original artifact is a dashboard user interface, which is utilized by users to interact with the Mongo Database records. The original artifact includes a hard coded username and password, allowing any user to easily gain access to the Database. I selected this item to demonstrate my anticipation of adversarial exploits, and security mindset. I implemented a user login and authentication process. Additionally, I included hashing to securely store the user passwords.
